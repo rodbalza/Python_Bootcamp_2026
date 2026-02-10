@@ -1,0 +1,8 @@
+
+variable = Hola
+[2026-02-10 17:05:01] INFO  [AuthService] User 'admin_user' logged in successfully. IP: 192.168.1.45
+[2026-02-10 17:05:12] WARN  [Database] Connection pool reaching 80% capacity.
+[2026-02-10 17:05:45] ERROR [PaymentGateway] Timeout waiting for response from provider. TransactionID: TXN_99821
+[2026-02-10 17:06:02] INFO  [Worker-1] Background job 'cleanup_cache' completed in 450ms.
+[2026-02-10 17:06:15] DEBUG [SessionManager] Session cookie set for user_id: 55092.
+[2026-02-10 17:07:30] ERROR [FileSystem] Failed to write to /var/log/app/upload_tmp. Permission denied.
