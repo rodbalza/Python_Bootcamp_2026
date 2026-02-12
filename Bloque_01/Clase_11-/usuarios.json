@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana",
+    "activo": true,
+    "nota": 8.5
+  },
+  {
+    "id": 2,
+    "nombre": "Luis",
+    "activo": false,
+    "nota": 7.0
+  },
+  {
+    "id": 3,
+    "nombre": "Marta",
+    "activo": true,
+    "nota": 9.25
+  }
+]
